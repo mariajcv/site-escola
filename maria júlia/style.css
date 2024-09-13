@@ -1,10 +1,10 @@
- {
-    margin: 0;
+{
+  margin: 0;
     padding: 0;
 }
 
 .cabecalho {
-    background-color: #35b68b;
+    background-color: #ff83a2;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -26,7 +26,6 @@
 .escola-imagem{
     width: 25%;
 }
-
 .escola-div-conteudo{
     width: 35%;
     justify-content: space-around;
@@ -37,7 +36,9 @@
 
 
 .escola-titulo{
-    padding: 24px 0;
+    width: 35%;
+    justify-content: space-around;
+    align-items: center;
     text-align: center;
     padding: 16px 0;
 }
@@ -59,7 +60,7 @@
     padding: 16px 0;
 }
 footer {
-    background-color: #35b68b;
+    background-color: #ff83a2;
     color: #fff;
     text-align: center;
     padding: 10px 0;
